@@ -1,6 +1,6 @@
-# Happy Christmas!
+# Interface of Delta
 
-![Happy Christmas](Delta.png)
+![Interface of Delta](Delta.png)
 
 # Getting Started with Create React App
 
